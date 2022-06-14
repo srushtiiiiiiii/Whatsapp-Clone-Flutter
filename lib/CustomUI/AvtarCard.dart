@@ -33,6 +33,7 @@ class AvatarCard extends StatelessWidget {
                   radius: 11,
                   child: Icon(
                     Icons.clear,
+                    .
                     color: Colors.white,
                     size: 13,
                   ),
